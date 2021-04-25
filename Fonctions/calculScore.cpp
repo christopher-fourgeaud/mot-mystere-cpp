@@ -2,7 +2,7 @@
 #include<string>
 #include "../Headers/calculScore.h"
 
-std::string calculScore(std::vector<std::string> resultatManche, std::vector<int> essaisRestant, std::vector<std::string> motMystere){
+std::string calculScore(std::vector<std::string> const& resultatManche, std::vector<int> const& essaisRestant, std::vector<std::string> const& motMystere){
   std::string resultat = "=================== RESULTATS ======================== \n";
   int score = 0;
 

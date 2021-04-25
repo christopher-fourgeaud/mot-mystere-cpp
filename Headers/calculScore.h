@@ -11,6 +11,6 @@
  * 
  * \return Le score de la partie et les informations sur les manches joués 
 */
-std::string calculScore(std::vector<std::string> resultatManche, std::vector<int> essaisRestant, std::vector<std::string> motMystere);
+std::string calculScore(std::vector<std::string> const& resultatManche, std::vector<int> const& essaisRestant, std::vector<std::string> const& motMystere);
 
 #endif // !CALCUL_SCORE
