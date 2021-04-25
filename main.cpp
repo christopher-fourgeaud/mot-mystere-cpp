@@ -124,6 +124,10 @@ int main()
   //Calculer et donner le score du joueur
   std::cout << calculScore(resultatsManches, essaisRestants, motsMysteres) << std::endl;
 
+  //Attend un input utilisateur pour fermer la console
+  std::cin.ignore();
+  std::cin.get();
+
   return 0;
 }
 
