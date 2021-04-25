@@ -1,4 +1,5 @@
 #ifndef CHOISIR_RANDOM_MOT_DICTIONNAIRE
+#define CHOISIR_RANDOM_MOT_DICTIONNAIRE
 #include<string>
 
 /**

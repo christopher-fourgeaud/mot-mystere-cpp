@@ -1,4 +1,5 @@
 #ifndef MELANGER_LETTRES
+#define MELANGER_LETTRES
 #include<string>
 
 /**

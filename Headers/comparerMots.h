@@ -1,4 +1,5 @@
 #ifndef COMPARER_MOTS
+#define COMPARER_MOTS
 #include<string>
 
 /**

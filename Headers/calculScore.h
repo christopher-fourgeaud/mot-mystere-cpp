@@ -1,4 +1,5 @@
 #ifndef CALCUL_SCORE
+#define CALCUL_SCORE
 #include<string>
 #include<vector>
 
